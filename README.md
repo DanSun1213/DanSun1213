@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DanSun1213
-- 👀 I’m interested in Data Analysis 
+- 👋 Hi, I’m Dan
+- 👀 I’m interested in HR Data Analysis 
 - 🌱 I’m currently learning:
 
 - Data Cleaning and Data Wrangling
